@@ -1,0 +1,2 @@
+rootProject.name = "rxjava_retrofit_sample"
+include ':app'
